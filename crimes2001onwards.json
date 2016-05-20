@@ -1,0 +1,194 @@
+[
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2001,
+    "values": 32222
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2001,
+    "values": 60352
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2002,
+    "values": 27367
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2002,
+    "values": 46378
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2003,
+    "values": 20394
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2003,
+    "values": 36387
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2004,
+    "values": 19020
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2004,
+    "values": 35270
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2005,
+    "values": 18648
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2005,
+    "values": 27378
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2006,
+    "values": 20506
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2006,
+    "values": 26706
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2007,
+    "values": 21852
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2007,
+    "values": 24756
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2008,
+    "values": 23825
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2008,
+    "values": 24876
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2009,
+    "values": 21134
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2009,
+    "values": 23732
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2010,
+    "values": 21432
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2010,
+    "values": 24071
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2011,
+    "values": 15283
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2011,
+    "values": 28329
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2012,
+    "values": 15599
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2012,
+    "values": 28767
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2013,
+    "values": 15259
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2013,
+    "values": 27118
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2014,
+    "values": 14521
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2014,
+    "values": 28173
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2015,
+    "values": 12390
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2015,
+    "values": 24193
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "OVER $500",
+    "Year": 2016,
+    "values": 3486
+  },
+  {
+    "Primary Type": "THEFT",
+    "Description": "$500 AND UNDER",
+    "Year": 2016,
+    "values": 5925
+  }
+]
